@@ -1,0 +1,1 @@
+select 'bpl version 2' from dual;
